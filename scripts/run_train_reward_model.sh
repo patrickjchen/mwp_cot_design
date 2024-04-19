@@ -24,7 +24,7 @@ seed="42"
 max_input_length="700"
 
 num_processes='6'
-main_process_port='8888'
+main_process_port='9999'
 
 CMD='train_reward_model.py \
     --model_name_or_path "${model_name_or_path}" \
